@@ -1,18 +1,33 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Hastane Otomasyonu
 
-## Folder Structure
+Okulda nesne tabanlı programlamayı daha iyi kavramak için java
+ile geliştirdiğim proje
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Özellikler
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Hasta randevu alma
+- Hastanın hangi poliklinike gideceği
+- Doktor bilgileri
+- Uygulama konsol üzerinde çalışıyor
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+  
+## Bilgisayarınızda Çalıştırın
 
-## Dependency Management
+Projeyi klonlayın
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```bash
+  git clone https://github.com/emreArvas/hastaneOtomasyonu
+```
+
+
+
+  
+
+  
+
+  
+## Kullanılan Teknolojiler
+
+Java
